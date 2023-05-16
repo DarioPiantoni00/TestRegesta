@@ -1,0 +1,14 @@
+body{
+	
+	padding:10px;
+	
+}
+h1{
+	color:#1E90FF;
+}
+html{
+	background-image:url("img/sfondo.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	font-family:calibri;
+}
